@@ -1,0 +1,16 @@
+2H2O==2H2↑+O2↑（通电）
+H2+CuO==Cu+H2O（加热）
+CaO+H2O==Ca(OH)2
+2HCl+Ca(OH)2==CaCl2+2H2O
+2Na+2H20==2NaOH+H2↑
+2H2+O2==2H2O（点燃）
+3Fe+4H2O==Fe3O4+4H2↑（高温）
+Fe3O4+8HCl==2FeCl3+FeCl2+4H2O
+C+O2==CO2(高温)
+CO2+2Mg==C+2MgO（点燃）
+
+
+
+
+
+

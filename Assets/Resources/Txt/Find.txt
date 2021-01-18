@@ -1,0 +1,12 @@
+H2Ol[E]H2g+O2g
+H2g+CuOs[H]Cus+H2Ol
+CaOs+H2Ol[N]Ca(OH)2l
+HCll+Ca(OH)2l[N]CaCl2l+H2Ol
+Nas+H2Ol[N]NaOHl+H2g
+H2g+O2g[L]H2Og
+Fes+H2Og[H]Fe3O4s+H2g
+Fe3O4s+HCll[N]FeCl3l+FeCl2l+H2Ol
+Cs+O2g[H]CO2g
+CO2g+Mgs[L]MgOs+Cs
+H2Ol[V]H2Og
+H2Og[C]H2Ol
